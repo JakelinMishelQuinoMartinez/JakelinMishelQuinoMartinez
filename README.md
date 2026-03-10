@@ -13,6 +13,7 @@
 - 🎯 Objetivo: Estar en constante evolución para pasar de escribir scripts a diseñar sistemas funcionales
 - 🖱 Estudiante de Programación
 - 🎓 Estudiante de Criminalística y Ciencias Forenses
+- 📑 B1 En inglés
 - 🌊 Hobbies: Fotografía, películas y fútbol 
 - ✨ Reminder: Josué 1:9 
 -----------------------------------------------
