@@ -28,3 +28,46 @@
 </div>
 
 ---
+
+
+# Qué hago
+
+<div align="center">
+  <table border="0" cellpadding="20" cellspacing="0">
+    <tr>
+      <td width="50%" align="center" style="background: #0D1117; border: 2px solid #4A90D9; border-radius: 12px; padding: 20px;">
+        <h3 style="color: #7B2FBE;">Desarrollo Web</h3>
+        <p style="color: #FFFFFF;">
+          <strong>Implemento soluciones web en proyectos académicos, aplicando buenas prácticas de programación y arquitectura de software.</strong><br/><br/>
+          <span style="color: #4A90D9;">→ HTML5 · CSS3 · JavaScript</span>
+        </p>
+      </td>
+      <td width="50%" align="center" style="background: #0D1117; border: 2px solid #7B2FBE; border-radius: 12px; padding: 20px;">
+        <h3 style="color: #4A90D9;">Trabajo Técnico</h3>
+        <p style="color: #FFFFFF;">
+          <strong>Control de versiones con Git, flujos de trabajo en equipo y revisiones de código estructurada.</strong><br/><br/>
+          <span style="color: #7B2FBE;">→ Git · GitHub · Pull Requests · Code Review</span>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" style="background: #0D1117; border: 2px solid #4A90D9; border-radius: 12px; padding: 20px;">
+        <h3 style="color: #7B2FBE;">Proyectos y Soluciones</h3>
+        <p style="color: #FFFFFF;">
+          <strong>Materializo conceptos teóricos en proyectos prácticos, documentando el proceso de desarrollo y las decisiones técnicas tomadas.</strong><br/><br/>
+          <span style="color: #4A90D9;">→ Arquitectura · Documentación</span>
+        </p>
+      </td>
+      <td width="50%" align="center" style="background: #0D1117; border: 2px solid #7B2FBE; border-radius: 12px; padding: 20px;">
+        <h3 style="color: #4A90D9;">Aprendizaje Continuo</h3>
+        <p style="color: #FFFFFF;">
+          <strong>Fortalezco mis bases en arquitectura backend, bases de datos SQL/NoSQL, despliegues con Docker y demás herramientas de desarrollo.</strong><br/><br/>
+          <span style="color: #7B2FBE;">→ Backend · SQL/NoSQL · Docker</span>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+<br />
+
+---
