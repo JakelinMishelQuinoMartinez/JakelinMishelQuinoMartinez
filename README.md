@@ -116,3 +116,63 @@
 </table>
 
 ---
+
+<br />
+
+# Proyectos destacados
+
+<table align="center">
+  <tr>
+    <!-- Proyecto 1: E-Commerce CampsShop -->
+    <td width="33%" style="border: 2px solid #4A90D9; border-radius: 10px; padding: 20px; background: #0D1117; vertical-align: top;">
+      <div align="center">
+        <h3 style="color: #7B2FBE; margin-top: 0;">🛍️ CampsShop</h3>
+        <p style="color: #FFFFFF; text-align: justify; font-size: 14px;">
+          E-commerce académico para venta de ropa con enfoque en usabilidad y diseño responsivo. Implementa un menú de navegación intuitivo y estructura semántica con HTML5 y CSS3.
+        </p>
+        <p style="color: #4A90D9; font-size: 13px; margin: 10px 0;">
+          <strong style="color: #7B2FBE;">Stack:</strong> HTML5 · CSS3 · Git
+        </p>
+        <a href="https://github.com/JakelinMishelQuinoMartinez/Proyecto_HTML_E-Commerce" 
+           style="display: inline-block; background: #4A90D9; color: #FFFFFF; padding: 8px 20px; border-radius: 20px; text-decoration: none; font-weight: bold; font-size: 14px;">
+           Ver proyecto
+        </a>
+      </div>
+    </td>
+    <!-- Proyecto 2: TutorBot -->
+    <td width="33%" style="border: 2px solid #7B2FBE; border-radius: 10px; padding: 20px; background: #0D1117; vertical-align: top;">
+      <div align="center">
+        <h3 style="color: #4A90D9; margin-top: 0;">🤖 TutorBot</h3>
+        <p style="color: #FFFFFF; text-align: justify; font-size: 14px;">
+          Solución automatizada con IA para optimizar flujos de trabajo usando n8n y Google Cloud Platform. Integra Google Sheets y Drive para la gestión de datos.
+        </p>
+        <p style="color: #4A90D9; font-size: 13px; margin: 10px 0;">
+          <strong style="color: #7B2FBE;">Stack:</strong> n8n · GCP · Google Sheets · Drive
+        </p>
+        <a href="https://github.com/JakelinMishelQuinoMartinez/Proyecto_TutorBot_QuinoJakelin_SanchezEdgar" 
+           style="display: inline-block; background: #7B2FBE; color: #FFFFFF; padding: 8px 20px; border-radius: 20px; text-decoration: none; font-weight: bold; font-size: 14px;">
+           Ver proyecto
+        </a>
+      </div>
+    </td>
+    <!-- Proyecto 3: CampusParking -->
+    <td width="33%" style="border: 2px solid #4A90D9; border-radius: 10px; padding: 20px; background: #0D1117; vertical-align: top;">
+      <div align="center">
+        <h3 style="color: #7B2FBE; margin-top: 0;">🚘 CampusParking</h3>
+        <p style="color: #FFFFFF; text-align: justify; font-size: 14px;">
+          Sistema digital de gestión de parqueo con autenticación, panel de administración de tarifas y un grid interactivo en tiempo real. Utiliza LocalStorage para persistencia de datos.
+        </p>
+        <p style="color: #4A90D9; font-size: 13px; margin: 10px 0;">
+          <strong style="color: #7B2FBE;">Stack:</strong> JavaScript · HTML5 · CSS3 · LocalStorage
+        </p>
+        <a href="https://github.com/JakelinMishelQuinoMartinez/Proyecto_JavaScript_JakelinQuino" 
+           style="display: inline-block; background: #4A90D9; color: #FFFFFF; padding: 8px 20px; border-radius: 20px; text-decoration: none; font-weight: bold; font-size: 14px;">
+           Ver proyecto
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+<br />
+
+---
