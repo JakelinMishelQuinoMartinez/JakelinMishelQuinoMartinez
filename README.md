@@ -23,12 +23,11 @@
 <!-- TYPING SVG --->
 <div align="center">
   <a href="https://github.com/https://github.com/JakelinMishelQuinoMartinez">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=8a2be2&center=true&vCenter=true&width=980&lines=Frontend+con+HTML+CSS+y+JavaScript;Backend+con+Node+Express+Laravel+SpringBoot+y+DotNet;MySQL+y+MongoDB;GitHub+Flow+y+proyectos+documentados" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=8a2be2&center=true&vCenter=true&width=980&lines=Frontend+con+HTML,+CSS+y+JavaScript;Backend+con+Python;Bases+de+datos+con+MySQL;GitHub+flow+y+proyectos+documentados" alt="Typing SVG" />
   </a>
 </div>
 
 ---
-
 
 # Qué hago
 
@@ -74,50 +73,50 @@
 
 # Stack principal
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="center" width="20%" style="background-color: #0b0f19">Área</th>
-      <th align="center" width="80%" style="background-color: #0b0f19">Tecnologías</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="font-weight: bold;">Frontend</td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="font-weight: bold;">Backend</td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="font-weight: bold;">Bases de datos</td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="font-weight: bold;">Herramientas</td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub-23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+  <table width="100%">
+    <thead>
+      <tr>
+        <th align="center" width="20%" style="background-color: #0b0f19">Área</th>
+        <th align="center" width="80%" style="background-color: #0b0f19">Tecnologías</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="font-weight: bold;">Frontend</td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center" style="font-weight: bold;">Backend</td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center" style="font-weight: bold;">Bases de datos</td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center" style="font-weight: bold;">Herramientas</td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+          <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+          <img src="https://img.shields.io/badge/GitHub-23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
-
-<br />
 
 # Proyectos destacados
 
@@ -173,7 +172,6 @@
     </td>
   </tr>
 </table>
-<br />
 
 ---
 
