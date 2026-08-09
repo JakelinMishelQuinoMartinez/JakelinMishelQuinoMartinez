@@ -176,3 +176,41 @@
 <br />
 
 ---
+
+# Actividad en GitHub
+
+<div align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=JakelinMishelQuinoMartinez&theme=transparent&background=0b0f19&ring=8a2be2&fire=1e3a8a&currStreakNum=1e3a8a&sideNums=ffffff&dates=8a2be2&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JakelinMishelQuinoMartinez&custom_colors=true&bg_color=0b0f19&color=ffffff&line=8a2be2&point=1e3a8a&area=true&area_color=8a2be2&hide_border=true&radius=12" alt="Actividad reciente" width="98%" />
+</div>
+
+<!-- Separador decorativo -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="98%" alt="Separador"/>
+</div>
+
+---
+
+# Contacto
+
+<div align="center">
+  <a href="www.linkedin.com/in/jakelin-quino-5470ab425">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="quinojakelin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/JakelinMishelQuinoMartinez">
+    <img src="https://img.shields.io/badge/GitHub-JakelinMishelQuinoMartinez-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<div align="center">
+  <strong>Ciudad de Guatemala, Guatemala</strong>
+</div>
+
+---
+
+**Perfil actualizado:** Agosto de 2026
