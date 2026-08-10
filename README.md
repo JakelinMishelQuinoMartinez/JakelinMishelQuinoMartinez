@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1e3a8a,50:7e22ce,100:fcfe9&text=Jakelin+Mishel+Quino+Martinez&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=GitHub+Portfolio&descAlignY=58&descSize=18" alt="Jakelin Mishel Quino Martinez-Full Stack Developer Junior" width="100%" />
 </div>
 
-<!-- PROYECTOS Y VISTAS --->
+<!-- PROYECTOS Y VISTAS -->
 <div align="center">
   <a href="https://github.com/JakelinMishelQuinoMartinez?tab=repositories">
     <img src="https://img.shields.io/badge/Proyectos-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -12,17 +12,18 @@
 </div>
   
 <hr>
-<!-- TEXTO PRESENTACIÓN --->
+<!-- TEXTO PRESENTACIÓN -->
 <p align="center">
-  <strong>Desarrolladora de Software</strong>
+  <strong>Full Stack Developer Junior en formación</strong>
   <br />
-  Full Stack Developer Junior en formacion. Desarrollo proyectos retos y talleres académicos documentación y control profesional con
-  <span style="color: #4A90D9; font-weight: bold;">GitHub.</
+  Desarrollo proyectos, retos y talleres académicos con documentación y control profesional en 
+  <span style="color: #4A90D9; font-weight: bold;">GitHub.</span>
+  Me enfoco en el aprendizaje continuo explorando nuevas tecnologías. Actualmente tengo la disposición de participar en colaboraciones y oportunidades para poner en práctica mis conocimientos.
 </p>
 
-<!-- TYPING SVG --->
+<!-- TYPING SVG -->
 <div align="center">
-  <a href="https://github.com/https://github.com/JakelinMishelQuinoMartinez">
+  <a href="https://github.com/JakelinMishelQuinoMartinez">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=8a2be2&center=true&vCenter=true&width=980&lines=Frontend+con+HTML,+CSS+y+JavaScript;Backend+con+Python;Bases+de+datos+con+MySQL;GitHub+flow+y+proyectos+documentados" alt="Typing SVG" />
   </a>
 </div>
@@ -44,7 +45,7 @@
       <td width="50%" align="center" style="background: #0D1117; border: 2px solid #7B2FBE; border-radius: 12px; padding: 20px;">
         <h3 style="color: #4A90D9;">Trabajo Técnico</h3>
         <p style="color: #FFFFFF;">
-          <strong>Control de versiones con Git, flujos de trabajo en equipo y revisiones de código estructurada.</strong><br/><br/>
+          <strong>Control de versiones con Git, flujos de trabajo en equipo y revisiones de código estructuradas.</strong><br/><br/>
           <span style="color: #7B2FBE;">→ Git · GitHub · Pull Requests · Code Review</span>
         </p>
       </td>
@@ -194,10 +195,10 @@
 # Contacto
 
 <div align="center">
-  <a href="www.linkedin.com/in/jakelin-quino-5470ab425">
+  <a href="https://www.linkedin.com/in/jakelin-quino-5470ab425">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="quinojakelin@gmail.com">
+  <a href="mailto:quinojakelin@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/JakelinMishelQuinoMartinez">
