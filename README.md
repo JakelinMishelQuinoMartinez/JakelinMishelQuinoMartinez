@@ -195,7 +195,7 @@
 # Contacto
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jakelin-quino-5470ab425">
+  <a href="https://www.linkedin.com/in/jakelin-quino-4a88b5349/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:quinojakelin@gmail.com">
