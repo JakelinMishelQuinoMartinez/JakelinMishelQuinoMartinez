@@ -179,7 +179,7 @@
 # Actividad en GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-streak-stats.vercel.app?user=JakelinMishelQuinoMartinez&theme=transparent&background=0b0f19&ring=8a2be2&fire=1e3a8a&currStreakNum=1e3a8a&sideNums=ffffff&dates=8a2be2&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-streak-stats.vercel.app?user=JakelinMishelQuinoMartinez&theme=transparent&background=0b0f19&ring=8a2be2&fire=1e3a8a&currStreakNum=1e3a8a&sideNums=ffffff&dates=8a2be2&hide_border=true" alt="GitHub streak" />
 </div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JakelinMishelQuinoMartinez&custom_colors=true&bg_color=0b0f19&color=ffffff&line=8a2be2&point=1e3a8a&area=true&area_color=8a2be2&hide_border=true&radius=12" alt="Actividad reciente" width="98%" />
