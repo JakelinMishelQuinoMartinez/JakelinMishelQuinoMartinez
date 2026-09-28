@@ -37,15 +37,15 @@
     <tr>
       <td width="50%" align="center" style="background: #0D1117; border: 2px solid #4A90D9; border-radius: 12px; padding: 20px;">
         <h3 style="color: #7B2FBE;">Desarrollo Web</h3>
-        <p style="color: #FFFFFF;">
-          <strong>Implemento soluciones web en proyectos académicos, aplicando buenas prácticas de programación y arquitectura de software.</strong><br/><br/>
+        <p align="justify" style="color: #FFFFFF;">
+          Implemento soluciones web en proyectos académicos, aplicando buenas prácticas de programación y arquitectura de software.<br/><br/>
           <span style="color: #4A90D9;">→ HTML5 · CSS3 · JavaScript</span>
         </p>
       </td>
       <td width="50%" align="center" style="background: #0D1117; border: 2px solid #7B2FBE; border-radius: 12px; padding: 20px;">
         <h3 style="color: #4A90D9;">Trabajo Técnico</h3>
-        <p style="color: #FFFFFF;">
-          <strong>Control de versiones con Git, flujos de trabajo en equipo y revisiones de código estructuradas.</strong><br/><br/>
+        <p align="justify" style="color: #FFFFFF;">
+         Control de versiones con Git, flujos de trabajo en equipo y revisiones de código estructuradas.<br/><br/>
           <span style="color: #7B2FBE;">→ Git · GitHub · Pull Requests · Code Review</span>
         </p>
       </td>
@@ -53,15 +53,15 @@
     <tr>
       <td width="50%" align="center" style="background: #0D1117; border: 2px solid #4A90D9; border-radius: 12px; padding: 20px;">
         <h3 style="color: #7B2FBE;">Proyectos y Soluciones</h3>
-        <p style="color: #FFFFFF;">
-          <strong>Materializo conceptos teóricos en proyectos prácticos, documentando el proceso de desarrollo y las decisiones técnicas tomadas.</strong><br/><br/>
+        <p align="justify" style="color: #FFFFFF;">
+          Materializo conceptos teóricos en proyectos prácticos, documentando el proceso de desarrollo y las decisiones técnicas tomadas.<br/><br/>
           <span style="color: #4A90D9;">→ Arquitectura · Documentación</span>
         </p>
       </td>
       <td width="50%" align="center" style="background: #0D1117; border: 2px solid #7B2FBE; border-radius: 12px; padding: 20px;">
         <h3 style="color: #4A90D9;">Aprendizaje Continuo</h3>
-        <p style="color: #FFFFFF;">
-          <strong>Fortalezco mis bases en arquitectura backend, bases de datos SQL/NoSQL, despliegues con Docker y demás herramientas de desarrollo.</strong><br/><br/>
+        <p align="justify" style="color: #FFFFFF;">
+          Fortalezco mis bases en arquitectura backend, bases de datos SQL/NoSQL, despliegues con Docker y demás herramientas de desarrollo.<br/><br/>
           <span style="color: #7B2FBE;">→ Backend · SQL/NoSQL · Docker</span>
         </p>
       </td>
@@ -127,7 +127,7 @@
     <td width="33%" style="border: 2px solid #4A90D9; border-radius: 10px; padding: 20px; background: #0D1117; vertical-align: top;">
       <div align="center">
         <h3 style="color: #7B2FBE; margin-top: 0;">🛍️ CampsShop</h3>
-        <p style="color: #FFFFFF; text-align: justify; font-size: 14px;">
+        <p align="justify" style="color: #FFFFFF; font-size: 14px;">
           E-commerce académico para venta de ropa con enfoque en usabilidad y diseño responsivo. Implementa un menú de navegación intuitivo y estructura semántica con HTML5 y CSS3.
         </p>
         <p style="color: #4A90D9; font-size: 13px; margin: 10px 0;">
@@ -143,7 +143,7 @@
     <td width="33%" style="border: 2px solid #7B2FBE; border-radius: 10px; padding: 20px; background: #0D1117; vertical-align: top;">
       <div align="center">
         <h3 style="color: #4A90D9; margin-top: 0;">🤖 TutorBot</h3>
-        <p style="color: #FFFFFF; text-align: justify; font-size: 14px;">
+        <p align="justify" style="color: #FFFFFF; font-size: 14px;">
           Solución automatizada con IA para optimizar flujos de trabajo usando n8n y Google Cloud Platform. Integra Google Sheets y Drive para la gestión de datos.
         </p>
         <p style="color: #4A90D9; font-size: 13px; margin: 10px 0;">
@@ -153,13 +153,13 @@
            style="display: inline-block; background: #7B2FBE; color: #FFFFFF; padding: 8px 20px; border-radius: 20px; text-decoration: none; font-weight: bold; font-size: 14px;">
            Ver proyecto
         </a>
-      </div>
+    </div>
     </td>
     <!-- Proyecto 3: CampusParking -->
     <td width="33%" style="border: 2px solid #4A90D9; border-radius: 10px; padding: 20px; background: #0D1117; vertical-align: top;">
       <div align="center">
         <h3 style="color: #7B2FBE; margin-top: 0;">🚘 CampusParking</h3>
-        <p style="color: #FFFFFF; text-align: justify; font-size: 14px;">
+        <p align="justify" style="color: #FFFFFF; font-size: 14px;">
           Sistema digital de gestión de parqueo con autenticación, panel de administración de tarifas y un grid interactivo en tiempo real. Utiliza LocalStorage para persistencia de datos.
         </p>
         <p style="color: #4A90D9; font-size: 13px; margin: 10px 0;">
@@ -178,11 +178,14 @@
 
 # Actividad en GitHub
 
+<!-- Racha de contribuciones -->
 <div align="center">
-  <img height="170" src="https://github-readme-streak-stats.vercel.app?user=JakelinMishelQuinoMartinez&theme=transparent&background=0b0f19&ring=8a2be2&fire=1e3a8a&currStreakNum=1e3a8a&sideNums=ffffff&dates=8a2be2&hide_border=true" alt="GitHub streak" />
+  <img height="165" src="https://streak-stats.demolab.com?user=JakelinMishelQuinoMartinez&background=0d1117&border=1e3a8a&stroke=8a2be2&ring=8a2be2&fire=0891b2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8a2be2&sideLabels=8a2be2&dates=0891b2&hide_border=true" alt="GitHub streak" />
 </div>
+
+<!-- Aportes -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JakelinMishelQuinoMartinez&custom_colors=true&bg_color=0b0f19&color=ffffff&line=8a2be2&point=1e3a8a&area=true&area_color=8a2be2&hide_border=true&radius=12" alt="Actividad reciente" width="98%" />
+  <img src="https://ghchart.rshah.org/8a2be2/JakelinMishelQuinoMartinez" alt="Mapa de contribuciones morado" width="98%" />
 </div>
 
 <!-- Separador decorativo -->
@@ -212,4 +215,4 @@
 
 ---
 
-**Perfil actualizado:** Agosto de 2026
+**Perfil actualizado:** Septiembre de 2026
