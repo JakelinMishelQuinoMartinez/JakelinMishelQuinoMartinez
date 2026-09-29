@@ -193,6 +193,14 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="98%" alt="Separador"/>
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JakelinMishelQuinoMartinez&theme=dracula" alt="Profile details" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JakelinMishelQuinoMartinez&theme=dracula" alt="Repos per language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JakelinMishelQuinoMartinez&theme=dracula" alt="Most commit language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JakelinMishelQuinoMartinez&theme=dracula" alt="Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anndreloopez012&theme=dracula&utcOffset=-6" alt="Productive time" width="49%" />
+</div>
+
 ---
 
 # Contacto
