@@ -9,12 +9,15 @@
     <img src="https://img.shields.io/badge/Proyectos-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=JakelinMishelQuinoMartinez&style=for-the-badge&color=0891b2&label=VISITAS" alt="Profile views" />
+  <a href="https://github.com/JakelinMishelQuinoMartinez/mi_portafolio_web">
+    <img src="https://img.shields.io/badge/Portafolio-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Portafolio" />
+  </a>
 </div>
   
 <hr>
 <!-- TEXTO PRESENTACIÓN -->
 <p align="center">
-  <strong>Full Stack Developer Junior en formación</strong>
+  <strong>Técnico en Desarrollo de Software</strong>
   <br />
   Desarrollo proyectos, retos y talleres académicos con documentación y control profesional en 
   <span style="color: #4A90D9; font-weight: bold;">GitHub.</span>
@@ -223,4 +226,4 @@
 
 ---
 
-**Perfil actualizado:** Septiembre de 2026
+**Perfil actualizado:** Octubre de 2026
