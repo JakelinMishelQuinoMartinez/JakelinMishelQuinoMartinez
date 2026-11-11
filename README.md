@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Proyectos-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=JakelinMishelQuinoMartinez&style=for-the-badge&color=0891b2&label=VISITAS" alt="Profile views" />
-  <a href="https://github.com/JakelinMishelQuinoMartinez/mi_portafolio_web">
+  <a href="https://jakelinmishelquinomartinez.github.io/mi_portafolio_web/">
     <img src="https://img.shields.io/badge/Portafolio-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Portafolio" />
   </a>
 </div>
@@ -27,7 +27,7 @@
 <!-- TYPING SVG -->
 <div align="center">
   <a href="https://github.com/JakelinMishelQuinoMartinez">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=8a2be2&center=true&vCenter=true&width=980&lines=Frontend+con+HTML,+CSS+y+JavaScript;Backend+con+Python;Bases+de+datos+con+MySQL;GitHub+flow+y+proyectos+documentados" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=8a2be2&center=true&vCenter=true&width=980&lines=Frontend;Backend;Bases+de+datos;FullStack" alt="Typing SVG" />
   </a>
 </div>
 
@@ -87,33 +87,51 @@
     </thead>
     <tbody>
       <tr>
-        <td align="center" style="font-weight: bold;">Frontend</td>
+        <td align="center" style="font-weight: bold;">Base de datos</td>
         <td align="center">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
         </td>
       </tr>
       <tr>
         <td align="center" style="font-weight: bold;">Backend</td>
         <td align="center">
-          <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         </td>
       </tr>
       <tr>
-        <td align="center" style="font-weight: bold;">Bases de datos</td>
+        <td align="center" style="font-weight: bold;">Frontend</td>
         <td align="center">
-          <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center" style="font-weight: bold;">Frameworks y librerías</td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
         </td>
       </tr>
       <tr>
         <td align="center" style="font-weight: bold;">Herramientas</td>
         <td align="center">
-          <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-          <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-          <img src="https://img.shields.io/badge/GitHub-23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-          <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+          <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+          <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+          <img src="https://img.shields.io/badge/Bruno-B845FC?style=flat-square&logo=bruno&logoColor=white" />
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+          <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" />
+          <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" />
+          <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square&logo=openai&logoColor=white" />
         </td>
       </tr>
     </tbody>
@@ -126,49 +144,49 @@
 
 <table align="center">
   <tr>
-    <!-- Proyecto 1: E-Commerce CampsShop -->
+    <!-- Proyecto 1 -->
     <td width="33%" style="border: 2px solid #4A90D9; border-radius: 10px; padding: 20px; background: #0D1117; vertical-align: top;">
       <div align="center">
-        <h3 style="color: #7B2FBE; margin-top: 0;">🛍️ CampsShop</h3>
+        <h3 style="color: #7B2FBE; margin-top: 0;">GYM CLI</h3>
         <p align="justify" style="color: #FFFFFF; font-size: 14px;">
-          E-commerce académico para venta de ropa con enfoque en usabilidad y diseño responsivo. Implementa un menú de navegación intuitivo y estructura semántica con HTML5 y CSS3.
+          Aplicación de línea de comandos (CLI) en Node.js con persistencia en MySQL para que un entrenador personal o gimnasio gestione clientes, planes de entrenamiento, contratos, seguimiento físico, nutrición y finanzas.
         </p>
         <p style="color: #4A90D9; font-size: 13px; margin: 10px 0;">
-          <strong style="color: #7B2FBE;">Stack:</strong> HTML5 · CSS3 · Git
+          <strong style="color: #7B2FBE;">Ruta:</strong> Node.js
         </p>
-        <a href="https://github.com/JakelinMishelQuinoMartinez/Proyecto_HTML_E-Commerce" 
+        <a href="https://github.com/JakelinMishelQuinoMartinez/gymcli_nodejs" 
            style="display: inline-block; background: #4A90D9; color: #FFFFFF; padding: 8px 20px; border-radius: 20px; text-decoration: none; font-weight: bold; font-size: 14px;">
            Ver proyecto
         </a>
       </div>
     </td>
-    <!-- Proyecto 2: TutorBot -->
+    <!-- Proyecto 2 -->
     <td width="33%" style="border: 2px solid #7B2FBE; border-radius: 10px; padding: 20px; background: #0D1117; vertical-align: top;">
       <div align="center">
-        <h3 style="color: #4A90D9; margin-top: 0;">🤖 TutorBot</h3>
+        <h3 style="color: #4A90D9; margin-top: 0;">CAMPUSLANDS CLI</h3>
         <p align="justify" style="color: #FFFFFF; font-size: 14px;">
-          Solución automatizada con IA para optimizar flujos de trabajo usando n8n y Google Cloud Platform. Integra Google Sheets y Drive para la gestión de datos.
+          Gestor de campers en Node.js puro con EcmaScript Modules (ESM), sin dependencias externas. Permite registrar, listar y buscar campers, almacenando la información en un archivo JSON.
         </p>
         <p style="color: #4A90D9; font-size: 13px; margin: 10px 0;">
-          <strong style="color: #7B2FBE;">Stack:</strong> n8n · GCP · Google Sheets · Drive
+          <strong style="color: #7B2FBE;">Ruta:</strong> Node.js
         </p>
-        <a href="https://github.com/JakelinMishelQuinoMartinez/Proyecto_TutorBot_QuinoJakelin_SanchezEdgar" 
+        <a href="https://github.com/JakelinMishelQuinoMartinez/campuslands_cli_node" 
            style="display: inline-block; background: #7B2FBE; color: #FFFFFF; padding: 8px 20px; border-radius: 20px; text-decoration: none; font-weight: bold; font-size: 14px;">
            Ver proyecto
         </a>
     </div>
     </td>
-    <!-- Proyecto 3: CampusParking -->
+    <!-- Proyecto 3 -->
     <td width="33%" style="border: 2px solid #4A90D9; border-radius: 10px; padding: 20px; background: #0D1117; vertical-align: top;">
       <div align="center">
-        <h3 style="color: #7B2FBE; margin-top: 0;">🚘 CampusParking</h3>
+        <h3 style="color: #7B2FBE; margin-top: 0;">S&J GEEK</h3>
         <p align="justify" style="color: #FFFFFF; font-size: 14px;">
-          Sistema digital de gestión de parqueo con autenticación, panel de administración de tarifas y un grid interactivo en tiempo real. Utiliza LocalStorage para persistencia de datos.
+          API REST para películas, series y anime desarrollada con Node.js, Express y MySQL. Incluye autenticación JWT, roles, validaciones, Swagger, transacciones y ranking ponderado.
         </p>
         <p style="color: #4A90D9; font-size: 13px; margin: 10px 0;">
-          <strong style="color: #7B2FBE;">Stack:</strong> JavaScript · HTML5 · CSS3 · LocalStorage
+          <strong style="color: #7B2FBE;">Ruta:</strong> Express
         </p>
-        <a href="https://github.com/JakelinMishelQuinoMartinez/Proyecto_JavaScript_JakelinQuino" 
+        <a href="https://github.com/JakelinMishelQuinoMartinez/sj-geek-backend" 
            style="display: inline-block; background: #4A90D9; color: #FFFFFF; padding: 8px 20px; border-radius: 20px; text-decoration: none; font-weight: bold; font-size: 14px;">
            Ver proyecto
         </a>
